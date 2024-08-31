@@ -52,9 +52,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 - *2024.04 - 2024.10 (now)*, Exchange Student. Technical University Munich, Munich.
 - *2018.09 - 2022.06*, B.Sc. Zhejiang University, Hangzhou.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.01 - 2024.04*, [Tencent | Robotics X Laboratory, Perception Center](https://roboticsx.tencent.com/), China.
+- *2023.05 - 2023.08*, [Huawei | Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern)](https://github.com/), China.
