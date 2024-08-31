@@ -90,6 +90,5 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 - *2024.01 - 2024.04*, Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
 - *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern), China.
 
-# 📷 Internships
-- *2024.01 - 2024.04*, Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
-- *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern), China.
+# 📷 Beyond Research
+I'm a photographer and backpacker who wants to try more things and explore the world, with the dream of making my own movie!
