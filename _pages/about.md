@@ -47,6 +47,9 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **IROS 2024**
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 Jingyi Tang, *Zeyu Chen*, Bowen Fu, et al.
@@ -58,6 +61,8 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, et al.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **RA-L/ICRA2024**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation.](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
