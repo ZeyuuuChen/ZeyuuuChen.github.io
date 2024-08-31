@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a second-year Master student at [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, Tsinghua University, supervised by Prof. Dr. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm). I got my bachelor's degree from [Ocean College](http://oc.zju.edu.cn/global/main.htm), Zhejiang University. I'm having a great time as an exchange project student in [CAMP](https://www.cs.cit.tum.de/camp/start/), Technische Universitaet München, supervised by Prof. Dr. [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/), working with Dr. Kunyi Li.
+I am a second-year Master student at [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, Tsinghua University, supervised by Prof. Dr. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm). I got my bachelor's degree from [Ocean College](http://oc.zju.edu.cn/global/main.htm), Zhejiang University. I'm having a great time as an exchange project student in [CAMP](https://www.cs.cit.tum.de/camp/start/), Technische Universitaet München, supervised by Prof. Dr. [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/), working with Dr. [Kunyi Li](https://scholar.google.com/citations?user=-pXMp80AAAAJ).
 
 My research interest lies in **3D computer vision**, especially **3D scene reconstruction and 6D Pose Estimation**.
 
