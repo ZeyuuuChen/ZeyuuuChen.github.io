@@ -30,8 +30,9 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 One paper accepted by ECCV 2024.
+- *2024.06*: &nbsp;🎉🎉 One paper accepted by IROS 2024.
+- *2024.01*: &nbsp;🎉🎉 One paper published in RA-L and accepted by ICRA2024.
 
 # 📝 Publications 
 
