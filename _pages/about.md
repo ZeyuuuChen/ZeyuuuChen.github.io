@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master student at Intelligent Computing Laboratory, SIGS, Tsinghua University, supervised by Prof. Dr. Xiu Li. I got my bachelor's degree from Ocean College, Zhejiang University. I'm having a great time as an exchange project student in CAMP, Technische Universitaet München, supervised by Prof. Dr. Nassir Navab, working with Dr. Kunyi Li.
+I am a second-year Master student at [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, Tsinghua University, supervised by Prof. Dr. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm). I got my bachelor's degree from [Ocean College](http://oc.zju.edu.cn/global/main.htm), Zhejiang University. I'm having a great time as an exchange project student in [CAMP](https://www.cs.cit.tum.de/camp/start/), Technische Universitaet München, supervised by Prof. Dr. [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/), working with Dr. Kunyi Li.
 
 My research interest lies in **3D computer vision**, especially **3D scene reconstruction and 6D Pose Estimation**.
 
-Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), Dr. Jingyi Tang.
+Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), Dr. [Jingyi Tang](https://scholar.google.com/citations?user=gJGdfrYAAAAJ).
 
 **Currently, I'm actively seeking for a PhD position in Fall, 2025.**
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
