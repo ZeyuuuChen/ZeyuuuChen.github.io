@@ -43,7 +43,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images.
 
-*Zeyu Chen*, Jingyi Tang, Gu Wang, et al.
+*Zeyu Chen*, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - TODO
@@ -57,7 +57,7 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 
 [ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/10313927))
 
-Jingyi Tang, *Zeyu Chen*, Bowen Fu, et al.
+Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang Ji.
 
 [**DATASET**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/THUSIGSICLAB/ROV6D)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - TODO
@@ -71,7 +71,7 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, et al.
 
 FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation.
 
-Jingyi Tang, Gu Wang, *Zeyu Chen*, et al.
+Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - TODO
@@ -86,7 +86,10 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, et al.
 - *2018.09 - 2022.06*, B.Sc. Zhejiang University, Hangzhou.
 
 
-
 # 💻 Internships
+- *2024.01 - 2024.04*, Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
+- *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern), China.
+
+# 📷 Internships
 - *2024.01 - 2024.04*, Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
 - *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern), China.
