@@ -77,6 +77,7 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, et al.
 - *2018.09 - 2022.06*, B.Sc. Zhejiang University, Hangzhou.
 
 
+
 # 💻 Internships
-- *2024.01 - 2024.04*, [Tencent | Robotics X Laboratory, Perception Center](https://roboticsx.tencent.com/), China.
-- *2023.05 - 2023.08*, [Huawei | Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern)](https://github.com/), China.
+- *2024.01 - 2024.04*, [ Tencent | Robotics X Laboratory, Perception Center ](https://roboticsx.tencent.com/), China.
+- *2023.05 - 2023.08*, [ Huawei | Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern) ](https://github.com/), China.
