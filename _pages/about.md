@@ -26,7 +26,9 @@ My research interest lies in **3D computer vision** and **robotic manipulation*
 
 Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), [Jingyi Tang](https://scholar.google.com/citations?user=gJGdfrYAAAAJ), [Bowen Fu](https://fubowen1229.github.io/).
 
+
 <span style="color: #FF5733;">**Currently, I'm actively seeking for a PhD position in Fall, 2025.**</span>
+
 
 
 # 🔥 News
