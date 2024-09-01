@@ -55,11 +55,11 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA2024</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/10313927))
+[ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ](https://ieeexplore.ieee.org/document/10313927)
 
 Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang Ji.
 
-[**DATASET**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/THUSIGSICLAB/ROV6D)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**DATASET**](https://github.com/THUSIGSICLAB/ROV6D) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 - Jingyi Tang, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, and Xiangyang Ji. "ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. " IEEE Robotics and Automation Letters (RA-L), 2023
