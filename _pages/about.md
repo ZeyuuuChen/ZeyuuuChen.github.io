@@ -39,7 +39,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 # 📝 Publications 
 
-<span style="color: #FF5733;">## Topic 1: 3D Reconstruction</span>
+##<span style="color: #008B8B;"> Topic 1: 3D Reconstruction</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/UWSDF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +53,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 </div>
 - Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li. "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images. " IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 
 
-<span style="color: #FF5733;">## Topic 2: 6D Pose Estimation</span>
+##<span style="color: #008B8B;"> Topic 2: 6D Pose Estimation</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA2024</div><img src='images/ROV6D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
