@@ -38,7 +38,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/iros2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images.
