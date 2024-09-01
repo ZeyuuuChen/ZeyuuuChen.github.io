@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zeyu Chen(陈泽宇)"
+title                    : "Zeyu Chen"
 description              : "Master Student at SIGS, Tsinghua University."
 repository               : "ZeyuuuChen/ZeyuuuChen.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zeyu Chen"
+  name             : "Zeyu Chen(陈泽宇)"
   avatar           : "images/Avatar.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
