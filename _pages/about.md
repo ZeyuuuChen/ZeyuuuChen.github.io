@@ -29,6 +29,8 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 <span style="color: #FF5733;">**Currently, I'm actively seeking for a PhD position in Fall, 2025.**</span>
 
+<span style="color: #FF5733;">**Email: chenzeyu114@gmail.com**</span>
+
 
 
 # 🔥 News
