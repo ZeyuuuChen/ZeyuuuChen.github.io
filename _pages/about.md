@@ -99,7 +99,7 @@ I'm a photographer and backpacker, I've travelled to more than 10 countries and 
 
 DragonBooom(龙龙强)
 
-Zeyu Chen, Long Hang, Kunling Liu
+Long Hang, Kunling Liu, *Zeyu Chen*
 
 [**Demo**](https://gameinstitute.qq.com/yxds-2023/works/102298) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An interactive educational game developed using Unity, adapted from the traditional Chinese Lantern Festival custom of Bench Dragon Lanterns. The project has received multiple awards in various gaming competitions.
@@ -111,7 +111,7 @@ Zeyu Chen, Long Hang, Kunling Liu
 
 Monochrome(伴我同行)
 
-Zeyu Chen
+*Zeyu Chen*
 
 [**Demo**](https://www.bilibili.com/video/BV1zT4y1Q7c3/?spm_id_from=333.999.0.0&vd_source=26bdda5ceb5a18b99aa27bd3a91416c6) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A two-player cooperative puzzle game.
