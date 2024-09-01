@@ -130,6 +130,5 @@ Monochrome(伴我同行)
 <footer>
     <div class="footer-bottom">
       <p>&copy; 2024 Z.C.</p>
-       </div>
-
+    </div>
 </footer>
