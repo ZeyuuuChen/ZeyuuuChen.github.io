@@ -127,13 +127,9 @@ Monochrome(伴我同行)
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&co=9fb9d9&cmo=4e7ab0&cmn=c29ce6&ct=7c95f3'></script>
 </div>
 
-</div>
-</div>
-
 <footer>
     <div class="footer-bottom">
-      <p>&copy; 2024 Your Name. All Rights Reserved.</p>
+      <p>&copy; 2024 Z.C.</p>
        </div>
-    </div>
-  </div>
+
 </footer>
