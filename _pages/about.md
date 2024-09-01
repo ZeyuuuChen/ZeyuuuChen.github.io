@@ -102,3 +102,14 @@ Zeyu Chen, Long Hang, Kunling Liu
 
 [**Demo**](https://gameinstitute.qq.com/yxds-2023/works/102298) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - An interactive educational game developed using Unity, adapted from the traditional Chinese Lantern Festival custom of Bench Dragon Lanterns. The project has received multiple awards in various gaming competitions.
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Game</div><img src='images/game2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Monochrome(伴我同行)
+
+Zeyu Chen
+
+[**Demo**](https://www.bilibili.com/video/BV1zT4y1Q7c3/?spm_id_from=333.999.0.0&vd_source=26bdda5ceb5a18b99aa27bd3a91416c6) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A two-player cooperative puzzle game.
