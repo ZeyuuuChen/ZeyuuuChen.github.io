@@ -91,3 +91,14 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 # 📷 Beyond Research
 I'm a photographer and backpacker, I've travelled to more than 10 countries and I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
+
+# 🎮 Game Design
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DragonBooom(龙龙强)
+
+Zeyu Chen, Long Hang, Kunling Liu
+
+[**Demo**](https://gameinstitute.qq.com/yxds-2023/works/102298) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- An interactive educational game developed using Unity, adapted from the traditional Chinese Lantern Festival custom of Bench Dragon Lanterns. The project has received multiple awards in various gaming competitions..
