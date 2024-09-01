@@ -38,7 +38,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images.
@@ -52,7 +52,7 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 - Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li. "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images. " IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L/ICRA2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/10313927))
@@ -66,7 +66,7 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang J
 - Jingyi Tang, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang Ji. "ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. " IEEE Robotics and Automation Letters (RA-L), 2023
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation.
@@ -91,4 +91,4 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 - *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department (Algorithm Engineer Intern), China.
 
 # 📷 Beyond Research
-I'm a photographer and backpacker who wants to try more things and explore the world, with the dream of making my own movie!
+I'm a photographer and backpacker, I've travelled to more than 10 countries and I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
