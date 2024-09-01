@@ -123,7 +123,7 @@ Monochrome(伴我同行)
 </div>
 </div>
 
-<div id="map-container" style="width: 500px; height: 300px;">
+<div id="map-container" style="width: 300px; height: 200px; margin: 0 auto; text-align: center;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&co=9fb9d9&cmo=4e7ab0&cmn=c29ce6&ct=7c95f3'></script>
 </div>
 
