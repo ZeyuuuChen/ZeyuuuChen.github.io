@@ -121,43 +121,19 @@ Monochrome(伴我同行)
 - A two-player cooperative puzzle game.
 
 </div>
+</div>
 
 <div id="map-container" style="width: 150px; height: 100px; margin: 0 auto; text-align: center;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&co=9fb9d9&cmo=4e7ab0&cmn=c29ce6&ct=7c95f3'></script>
 </div>
 
+</div>
+</div>
+
 <footer>
-  <div class="footer-content">
-    <div class="footer-section about">
-      <h3>About Me</h3>
-      <p>Brief introduction or a tagline.</p>
-    </div>
-    
-    <div class="footer-section links">
-      <h3>Quick Links</h3>
-      <ul>
-        <li><a href="/about">About</a></li>
-        <li><a href="/contact">Contact</a></li>
-        <li><a href="/privacy">Privacy Policy</a></li>
-      </ul>
-    </div>
-
-    <div class="footer-section contact-form">
-      <h3>Contact Me</h3>
-      <form action="#">
-        <input type="email" placeholder="Your email address">
-        <textarea placeholder="Your message"></textarea>
-        <button type="submit">Send</button>
-      </form>
-    </div>
-
     <div class="footer-bottom">
       <p>&copy; 2024 Your Name. All Rights Reserved.</p>
-      <div class="socials">
-        <a href="#"><img src="linkedin-icon.png" alt="LinkedIn"></a>
-        <a href="#"><img src="github-icon.png" alt="GitHub"></a>
-      </div>
+       </div>
     </div>
   </div>
 </footer>
-
