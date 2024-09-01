@@ -91,7 +91,11 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 - *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department, China.
 
 # 📷 Beyond Research
-I'm a photographer and backpacker, I've travelled to more than 10 countries and I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
+I'm a photographer and backpacker, I've travelled to more than 10 countries. I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
+
+I am passionate about public service and have spent time teaching in a poor mountainous area in Yunnan, which has changed my life. I have also been involved in a number of SDG and social innovation activities.
+
+Feel free to get in touch!
 
 # 🎮 Game Design
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Game</div><img src='images/game.png' alt="sym" width="100%"></div></div>
