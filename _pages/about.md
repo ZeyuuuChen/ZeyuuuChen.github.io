@@ -93,7 +93,7 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 # 📷 Beyond Research
 I'm a photographer and backpacker, I've travelled to more than 10 countries. I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
 
-I am passionate about public service and have spent time teaching in a poor mountainous area in Yunnan, which has changed my life. I have also been involved in a number of SDG and social innovation activities.
+I am passionate about public service and have spent time teaching in a poor mountainous area in Yunnan, which has changed my life. I have also been involved in many SDG and social innovation activities.
 
 Feel free to get in touch!
 
