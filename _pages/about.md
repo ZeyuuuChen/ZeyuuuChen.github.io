@@ -41,7 +41,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/iros2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images.
+UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images
 
 *Zeyu Chen*, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li.
 
@@ -55,7 +55,7 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA2024</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ](https://ieeexplore.ieee.org/document/10313927)
+[ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles ](https://ieeexplore.ieee.org/document/10313927)
 
 Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang Ji.
 
@@ -68,7 +68,7 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang J
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation.
+FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation
 
 Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
