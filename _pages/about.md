@@ -128,7 +128,7 @@ Monochrome(伴我同行)
 </div>
 
 <footer>
-    <div style="text-align: center; background-color: #f1f1f1; padding: 10px 0;">
+    <div style="text-align: center; padding: 10px 0;">
         <p style="color: #808080; margin: 0;">&copy; 2024 Z.C.</p>
     </div>
 </footer>
