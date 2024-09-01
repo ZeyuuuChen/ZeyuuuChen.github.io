@@ -63,7 +63,7 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang J
 - TODO
 </div>
 </div>
-- Jingyi Tang, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang Ji. "ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. " IEEE Robotics and Automation Letters (RA-L), 2023
+- Jingyi Tang, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, and Xiangyang Ji. "ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. " IEEE Robotics and Automation Letters (RA-L), 2023
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
