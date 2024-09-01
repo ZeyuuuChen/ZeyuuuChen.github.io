@@ -93,7 +93,7 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 I'm a photographer and backpacker, I've travelled to more than 10 countries and I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
 
 # 🎮 Game Design
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Game</div><img src='images/game.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DragonBooom(龙龙强)
