@@ -125,8 +125,9 @@ Monochrome(伴我同行)
 </div>
 
 <div id="map-container" style="width: 150px; height: 100px; margin: 0 auto; text-align: center;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&co=9fb9d9&cmo=4e7ab0&cmn=c29ce6&ct=7c95f3'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=88a8ba&w=a&t=n&d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&co=ffffff&cmo=ff5353&cmn=3fcc3a'></script>
 </div>
+
 
 <footer>
     <div style="text-align: center;">
