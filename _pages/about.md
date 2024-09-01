@@ -46,13 +46,13 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 *Zeyu Chen*, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- TODO
+- Released soon.
 </div>
 </div>
 - Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li. "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images. " IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA2024</div><img src='images/RAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/10313927))
@@ -60,13 +60,13 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang Ji.
 
 [**DATASET**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://github.com/THUSIGSICLAB/ROV6D)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- TODO
+- Released.
 </div>
 </div>
 - Jingyi Tang, Zeyu Chen, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, and Xiangyang Ji. "ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. " IEEE Robotics and Automation Letters (RA-L), 2023
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation.
@@ -74,7 +74,7 @@ FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Est
 Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- TODO
+- Released soon.
 </div>
 </div>
 - Jingyi Tang, Gu Wang, Zeyu Chen, Shengquan Li, Xiu Li, and Xiangyang Ji. "FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation. " European Conference on Computer Vision (ECCV), 2024
