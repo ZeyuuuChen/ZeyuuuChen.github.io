@@ -120,4 +120,7 @@ Monochrome(伴我同行)
 [**Demo**](https://www.bilibili.com/video/BV1zT4y1Q7c3/?spm_id_from=333.999.0.0&vd_source=26bdda5ceb5a18b99aa27bd3a91416c6) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A two-player cooperative puzzle game.
 
+</div>
+</div>
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sg9PcHismqj0mHZs0fKi8r6yAkYH8v7q0RzBbugmM0s&cl=ffffff&w=a"></script>
