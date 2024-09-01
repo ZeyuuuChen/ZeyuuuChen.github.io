@@ -52,7 +52,7 @@ UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Un
 - Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li. "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images. " IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L/ICRA2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L / ICRA2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ROV6D: 6D Pose Estimation Benchmark Dataset for Underwater Remotely Operated Vehicles. ]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/10313927))
