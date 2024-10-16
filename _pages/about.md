@@ -48,7 +48,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 
 *Zeyu Chen*, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2410.08092) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Released soon.
 </div>
 </div>
@@ -76,7 +76,7 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang J
 
 Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2409.16600) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Released soon.
 </div>
 </div>
