@@ -49,7 +49,7 @@ Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com
 *Zeyu Chen*, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li.
 
 [**Paper**](https://arxiv.org/abs/2410.08092) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Released soon.
+
 </div>
 </div>
 - Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, and Xiu Li. "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images. " IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 
@@ -77,7 +77,7 @@ Jingyi Tang, *Zeyu Chen*, Bowen Fu, Wenjie Lu, Shengquan Li, Xiu Li, Xiangyang J
 Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 [**Paper**](https://arxiv.org/abs/2409.16600) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Released soon.
+
 </div>
 </div>
 - Jingyi Tang, Gu Wang, Zeyu Chen, Shengquan Li, Xiu Li, and Xiangyang Ji. "FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation. " European Conference on Computer Vision (ECCV), 2024
@@ -94,7 +94,7 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 - *2023.05 - 2023.08*, Huawei, Central Media Research Institute, CG&XR Department, China.
 
 # 📷 Beyond Research
-I'm a photographer and backpacker, I've travelled to more than 10 countries. I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
+I'm a photographer and backpacker, I've travelled to more than 15 countries. I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
 
 I am passionate about public service and have spent time teaching in a poor mountainous area in Yunnan, which has changed my life. I have also been involved in many SDG and social innovation activities.
 
