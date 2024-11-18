@@ -22,8 +22,7 @@ I am a second-year Master student at [Intelligent Computing Laboratory](https://
 
 I was a research intern at [Robotics X Lab](https://roboticsx.tencent.com/) of [Tencent](https://www.tencent.com/en-us/) and Central Media Research Institute of Huawei, research on robotic grasping and scene reconstruction.
 
-My research interest lies in **3D computer vision** and **robotic manipulation**, especially **3D reconstruction and 6D pose estimation**.
-My research interest lies in applying **machine learning methods** for **computer vision** and **robotics** to tasks such as pose estimation, 3D reconstruction, and mapping in challenging environments.
+My research interest lies in applying **machine learning methods** for **computer vision** and **robotics** to tasks such as pose estimation, 3D reconstruction, and navigation in challenging environments.
 
 Some of my close collaborators include Dr. [Gu Wang](https://scholar.google.com.sg/citations?user=htu3c7wAAAAJ&hl=zh-CN), [Jingyi Tang](https://scholar.google.com/citations?user=gJGdfrYAAAAJ), [Bowen Fu](https://fubowen1229.github.io/).
 
