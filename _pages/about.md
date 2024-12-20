@@ -84,13 +84,13 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 
 # 📖 Educations
-- *2022.06 - 2024.10 (now)*    M.Sc. Tsinghua University, Beijing.
-- *2024.04 - 2024.10 (now)*    Exchange Student. Technical University of Munich, Munich.
+- *2022.06 - 2025.06 (now)*    M.Sc. Tsinghua University, Beijing.
+- *2024.04 - 2024.10*    Exchange Student. Technical University of Munich, Munich.
 - *2018.09 - 2022.06*    B.Sc. Zhejiang University, Hangzhou.
 
 
 # 💻 Internships
-- *2024.12 - now*    IDEA(International Digital Economy Academy), [LASER Institute(Lower Airspace Economy research Institute)](https://www.idea.edu.cn/research/laser.html), China.
+- *2024.12 - 2025.03(now)*    IDEA(International Digital Economy Academy), [LASER Institute(Lower Airspace Economy research Institute)](https://www.idea.edu.cn/research/laser.html), China.
 - *2024.01 - 2024.04*    Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
 - *2023.05 - 2023.08*    Central Media Research Institute, CG&XR Department, China.
 
