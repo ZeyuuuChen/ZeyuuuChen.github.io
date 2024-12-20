@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a second-year Master student at [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, Tsinghua University, supervised by Prof. Dr. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm). I got my bachelor's degree from [Ocean College](http://oc.zju.edu.cn/global/main.htm), Zhejiang University. I'm having a great time as an exchange student in [CAMP](https://www.cs.cit.tum.de/camp/start/), Technische Universitaet München, supervised by Prof. Dr. [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/), working with Dr. [Federico Tombari](https://federicotombari.github.io/),  [Kunyi Li](https://li-kunyi.github.io/).
+I am a second-year Master student at [Intelligent Computing Laboratory](https://thusigsiclab.github.io/thu.github.io/index.html), SIGS, Tsinghua University, supervised by Prof. Dr. [Xiu Li](https://www.sigs.tsinghua.edu.cn/lx/main.htm). I got my bachelor's degree from [Ocean College](http://oc.zju.edu.cn/global/main.htm), Zhejiang University. I'm having a great time as an exchange student in [CAMP](https://www.cs.cit.tum.de/camp/start/), Technical University of Munich, supervised by Prof. Dr. [Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/), working with Dr. [Federico Tombari](https://federicotombari.github.io/),  [Kunyi Li](https://li-kunyi.github.io/).
 
 I was a research intern at [Robotics X Lab](https://roboticsx.tencent.com/) of [Tencent](https://www.tencent.com/en-us/) and Central Media Research Institute of Huawei, research on robotic grasping and scene reconstruction.
 
@@ -84,15 +84,15 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 
 # 📖 Educations
-- *2022.06 - 2024.10 (now)*, M.Sc. Tsinghua University, Beijing.
-- *2024.04 - 2024.10 (now)*, Exchange Student. Technical University Munich, Munich.
-- *2018.09 - 2022.06*, B.Sc. Zhejiang University, Hangzhou.
+- *2022.06 - 2024.10 (now)*    M.Sc. Tsinghua University, Beijing.
+- *2024.04 - 2024.10 (now)*    Exchange Student. Technical University of Munich, Munich.
+- *2018.09 - 2022.06*    B.Sc. Zhejiang University, Hangzhou.
 
 
 # 💻 Internships
-- *2024.12 - now*, IDEA(International Digital Economy Academy), [LASER Institute(Lower Airspace Economy research Institute)](https://www.idea.edu.cn/research/laser.html), China.
-- *2024.01 - 2024.04*, Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
-- *2023.05 - 2023.08*, Central Media Research Institute, CG&XR Department, China.
+- *2024.12 - now*    IDEA(International Digital Economy Academy), [LASER Institute(Lower Airspace Economy research Institute)](https://www.idea.edu.cn/research/laser.html), China.
+- *2024.01 - 2024.04*    Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
+- *2023.05 - 2023.08*    Central Media Research Institute, CG&XR Department, China.
 
 # 📷 Beyond Research
 I'm a photographer and backpacker, I've travelled to more than 15 countries. I enjoy trying new things and exploring the world. Besides that, I hope to make a film of my own one day!
