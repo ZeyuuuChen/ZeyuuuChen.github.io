@@ -90,6 +90,7 @@ Jingyi Tang, Gu Wang, *Zeyu Chen*, Shengquan Li, Xiu Li, and Xiangyang Ji.
 
 
 # 💻 Internships
+- *2024.12 - now*, IDEA(International Digital Economy Academy), [LASER Institute(Lower Airspace Economy research Institute)](https://www.idea.edu.cn/research/laser.html), China.
 - *2024.01 - 2024.04*, Tencent, [Robotics X Laboratory](https://roboticsx.tencent.com/), Perception Center, China.
 - *2023.05 - 2023.08*, Central Media Research Institute, CG&XR Department, China.
 
