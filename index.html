@@ -140,6 +140,46 @@
     </div>
 
 
+    <div class="container blog main">
+        <h2>
+            Selection Display
+        </h2>
+        
+        <p class="text">
+            The Selection Display feature is designed to visualise multiple visual elements based on a user-selectable menu. This feature is commonly used for images visualised with conditional prompts, allowing users to explore different visual outputs by selecting various conditions or prompts from the menu. Here is an example using images generated in <a href="https://sites.research.google/parti/">Google Parti</a>.
+        </p>
+    </div>
+
+    <div class="container blog main gray">
+        <div class="columns-2">
+            <div>
+                 <img id="parti" src="https://sites.research.google/parti/paper_images_green_watermark_outputs/figures/cherries/tornado/tiger_cubism.jpg">
+                 <p class="caption selection">
+                    <b>Input Prompt: </b>  <br>
+                     A tornado made of 
+                     <Select id="image-selector1">
+                         <option value="sharks" selected>sharks</option>
+                         <option value="tiger">tigers</option>
+                         <option value="bees">bees</option>
+                      </Select>
+                      <select id="image-selector1-temp" style="display: none;">
+                         <option id="image-selector1-temp-option"></option>
+                     </select>
+                      crashing into a skyscraper. Painting in the style of
+                      <Select id="image-selector2">
+                         <option value="hokusai" selected>Hokusai</option>
+                         <option value="cubism"> abstract cubism</option>
+                         <option value="watercolor">watercolor</option>
+                      </Select>
+                      <select id="image-selector2-temp" style="display: none;">
+                         <option id="image-selector2-temp-option"></option>
+                     </select>
+                      .
+                 </p>
+            </div>
+
+        </div>
+    </div>
 
 
 
